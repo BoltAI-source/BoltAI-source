@@ -39,22 +39,20 @@ The token is integral to creating value within the platform and driving user eng
    
 Install dependencies:
 
-bash
-Salin kode
-npm install
+   ```bash
 Run the app on Android:
 
-bash
-Salin kode
+   ```bash
 npm run android
+
 For iOS users, additional setup may be required, and we are working on iOS support in future updates.
 
-Build and Deployment
+Build and Deployment :
 The current version of BoltAI is optimized for Android devices. To build the APK for Android:
 
 bash
-Salin kode
 npm run build-android
+
 App Access
 No Registration Required: BoltAI does not require any registration or personal information from users in version 1.0.
 No In-App Purchases: The app is entirely free, and there are no hidden costs or in-app purchases at this time.
