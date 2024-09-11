@@ -24,11 +24,19 @@ The token is integral to creating value within the platform and driving user eng
 - Blockchain Ethereum : (ERC-20)
 - Contract Address :
 
+
+Website : https://boltai.org/
+Docs Whitepape : https://boltai-1.gitbook.io/boltai & BoltAI App Documentation https://boltai-1.gitbook.io/boltai-app-documentation/
+Medium : https://medium.com/@boltai
+GitHub : https://github.com/BoltAI-source
+X : https//x.com/BoltAI_Official
+Telegram : https://t.me/BoltAI_Official
+
 ## Getting Started
 
 [Website](https://boltai.org/)
 [Docs Whitepape](https://boltai-1.gitbook.io/boltai) & [BoltAI App Documentation](https://boltai-1.gitbook.io/boltai-app-documentation/) 
 [Medium](https://medium.com/@boltai)
 [GitHub](https://github.com/BoltAI-source)
-[X: https](//x.com/BoltAI_Official)
-[Telegram](https://t.me/BoltAI_Official )
+[X](https//x.com/BoltAI_Official)
+[Telegram](https://t.me/BoltAI_Official)
