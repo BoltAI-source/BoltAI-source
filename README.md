@@ -22,9 +22,9 @@ The token is integral to creating value within the platform and driving user eng
 - Symbol : BOLTAI
 - Decimals : 18
 - Blockchain Ethereum : (ERC-20)
-- Contract Address :
+- Contract Address : 0xc8420ff1ff3474f262a0737548c51ff41335e3a3
 
-
+### Social & Info Link:
 - Website : https://boltai.org/
 - Docs Whitepape : https://boltai-1.gitbook.io/boltai & BoltAI App Documentation https://boltai-1.gitbook.io/boltai-app-documentation/
 - Medium : https://medium.com/@boltai
