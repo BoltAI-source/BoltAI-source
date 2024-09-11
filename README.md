@@ -34,7 +34,7 @@ The token is integral to creating value within the platform and driving user eng
 
 ## Getting Started
 
-- [Node.js](https://nodejs.org/) (v14 or higher)
-- [React Native](https://reactnative.dev/) (for Android and iOS development)
-- [Expo CLI](https://docs.expo.dev/get-started/installation/) (if using Expo for mobile development)
-- [Android Studio](https://developer.android.com/studio) (for Android emulation)
+[Node.js](https://nodejs.org/) (v14 or higher)
+[React Native](https://reactnative.dev/) (for Android and iOS development)
+[Expo CLI](https://docs.expo.dev/get-started/installation/) (if using Expo for mobile development)
+[Android Studio](https://developer.android.com/studio) (for Android emulation)
