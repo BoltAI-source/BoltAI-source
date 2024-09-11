@@ -25,18 +25,16 @@ The token is integral to creating value within the platform and driving user eng
 - Contract Address :
 
 
-Website : https://boltai.org/
-Docs Whitepape : https://boltai-1.gitbook.io/boltai & BoltAI App Documentation https://boltai-1.gitbook.io/boltai-app-documentation/
-Medium : https://medium.com/@boltai
-GitHub : https://github.com/BoltAI-source
-X : https//x.com/BoltAI_Official
-Telegram : https://t.me/BoltAI_Official
+- Website : https://boltai.org/
+- Docs Whitepape : https://boltai-1.gitbook.io/boltai & BoltAI App Documentation https://boltai-1.gitbook.io/boltai-app-documentation/
+- Medium : https://medium.com/@boltai
+- GitHub : https://github.com/BoltAI-source
+- X : https//x.com/BoltAI_Official
+- Telegram : https://t.me/BoltAI_Official
 
 ## Getting Started
 
-[Website](https://boltai.org/)
-[Docs Whitepape](https://boltai-1.gitbook.io/boltai) & [BoltAI App Documentation](https://boltai-1.gitbook.io/boltai-app-documentation/) 
-[Medium](https://medium.com/@boltai)
-[GitHub](https://github.com/BoltAI-source)
-[X](https//x.com/BoltAI_Official)
-[Telegram](https://t.me/BoltAI_Official)
+- [Node.js](https://nodejs.org/) (v14 or higher)
+- [React Native](https://reactnative.dev/) (for Android and iOS development)
+- [Expo CLI](https://docs.expo.dev/get-started/installation/) (if using Expo for mobile development)
+- [Android Studio](https://developer.android.com/studio) (for Android emulation)
